@@ -1,0 +1,11 @@
+Created by Fabian Torres Robles
+CCADET UNAM, Mexico 
+06/06/13
+
+This program segments a tumor from a 2d breast ultrasound image
+It uses color and texture characteristics to create a probability
+image: Then it applies a Region Growing method to segment the probability
+image, the seed is selected Manually
+
+It need Matlab to run.
+It was created on Matlab R2011b 7.13
